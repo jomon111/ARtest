@@ -27,13 +27,13 @@ var models = [
     },
     {
         url: './assets/articuno/scene.gltf',
-        scale: '0.2 0.2 0.2',
+        scale: '0.5 0.5 0.5',
         rotation: '0 180 0',
         info: 'サクラ　3m',
     },
     {
         url: './assets/dragonite/scene.gltf',
-        scale: '0.08 0.08 0.08',
+        scale: '0.5 0.5 0.5',
         rotation: '0 180 0',
         info: '杉　4m',
     },
