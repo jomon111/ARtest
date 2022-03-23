@@ -22,20 +22,20 @@ var models = [
     {
         url: './assets/magnemite/scene.gltf',
         scale: '0.5 0.5 0.5',
-        info: 'あいうえお',
+        info: 'ケヤキ　5m',
         rotation: '0 180 0',
     },
     {
         url: './assets/articuno/scene.gltf',
         scale: '0.2 0.2 0.2',
         rotation: '0 180 0',
-        info: 'Articuno, Lv. 80, HP 100/100',
+        info: 'サクラ　3m',
     },
     {
         url: './assets/dragonite/scene.gltf',
         scale: '0.08 0.08 0.08',
         rotation: '0 180 0',
-        info: 'Dragonite, Lv. 99, HP 150/150',
+        info: '杉　4m',
     },
 ];
 
